@@ -1,3 +1,3 @@
 # Table of contents
 
-* [yolo](README.md)
+* [Page](README.md)

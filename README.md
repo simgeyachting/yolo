@@ -1,6 +1,2 @@
----
-icon: anchor
----
-
-# yolo
+# Page
 
